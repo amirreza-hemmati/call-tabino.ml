@@ -326,7 +326,7 @@ footer {
 
 #d2 {
     background-color: rgb(229, 224, 216);
-    opacity: 0.7;
+    opacity: 0.6;
     border-radius: 20px;
     text-align: right;
     direction: rtl;
@@ -391,7 +391,7 @@ footer {
 #p-instagram {
     font-family: w-yekan;
     text-align: left;
-    font-size: 35px;
+    font-size: 40px;
     background: linear-gradient(blue,red);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -409,7 +409,7 @@ footer {
 #p-tael {
     font-family: w-yekan;
     text-align: left;
-    font-size: 35px;
+    font-size: 40px;
     background: linear-gradient(#28c4e0,#1069b5);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
